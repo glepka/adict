@@ -1,0 +1,2 @@
+# adict
+Test for Adict
