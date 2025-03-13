@@ -1,0 +1,29 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border: 2px solid orange;
+  border-radius: 10px;
+  padding: 25px 15px 15px 15px;
+}
+
+.title {
+  font-family: Lato;
+  text-align: center;
+}
+
+.button {
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  background-color: transparent;
+  font-family: Lato;
+  color: #000;
+  background-color: rgb(255, 217, 0);
+  width: fit-content;
+}
+
+.button:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}

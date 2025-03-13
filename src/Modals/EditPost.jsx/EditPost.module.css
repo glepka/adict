@@ -1,0 +1,46 @@
+.overlay {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.1);
+  top: 0;
+  left: 0;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background-color: #fff;
+  padding: 40px;
+  width: 90%;
+  border-radius: 20px;
+}
+
+textarea {
+  min-height: 20vh;
+}
+
+.button {
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  background-color: transparent;
+  color: #fff;
+  width: fit-content;
+}
+.button:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.button.edit {
+  background-color: rgb(129, 226, 129);
+}
+.button.cancel {
+  background-color: rgb(207, 100, 100);
+}

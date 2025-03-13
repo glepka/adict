@@ -1,0 +1,19 @@
+@import url(./vendor/fonts/fonts.css);
+@import url(./vendor/normalize.css);
+
+* {
+  font-family: Lato;
+}
+
+input,
+textarea,
+select {
+  padding: 5px;
+  font-family: Lato;
+  outline: none;
+  border-radius: 10px;
+}
+
+textarea {
+  resize: none;
+}
