@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.ce90c899.css",
-    "main.js": "/static/js/main.78684a29.js",
-    "static/media/Lato-Semibold.woff2": "/static/media/Lato-Semibold.2a87df9ba418ee6903d4.woff2",
-    "static/media/Lato-Bold.woff2": "/static/media/Lato-Bold.39775d377afbc753c1d1.woff2",
-    "static/media/Lato-Regular.woff2": "/static/media/Lato-Regular.bb882f4771ef3a86e3a1.woff2",
-    "static/media/Lato-Light.woff2": "/static/media/Lato-Light.fc2632cd44db7565cfac.woff2",
-    "static/media/Lato-Medium.woff2": "/static/media/Lato-Medium.37b61c5e598ef53aaec1.woff2",
-    "static/media/Lato-Black.woff2": "/static/media/Lato-Black.cef0afb7ac2be63b0024.woff2",
-    "index.html": "/index.html",
-    "main.ce90c899.css.map": "/static/css/main.ce90c899.css.map",
-    "main.78684a29.js.map": "/static/js/main.78684a29.js.map"
+    "main.css": "/adict/static/css/main.ffe1f598.css",
+    "main.js": "/adict/static/js/main.78684a29.js",
+    "static/media/Lato-Semibold.woff2": "/adict/static/media/Lato-Semibold.2a87df9ba418ee6903d4.woff2",
+    "static/media/Lato-Bold.woff2": "/adict/static/media/Lato-Bold.39775d377afbc753c1d1.woff2",
+    "static/media/Lato-Regular.woff2": "/adict/static/media/Lato-Regular.bb882f4771ef3a86e3a1.woff2",
+    "static/media/Lato-Light.woff2": "/adict/static/media/Lato-Light.fc2632cd44db7565cfac.woff2",
+    "static/media/Lato-Medium.woff2": "/adict/static/media/Lato-Medium.37b61c5e598ef53aaec1.woff2",
+    "static/media/Lato-Black.woff2": "/adict/static/media/Lato-Black.cef0afb7ac2be63b0024.woff2",
+    "index.html": "/adict/index.html",
+    "main.ffe1f598.css.map": "/adict/static/css/main.ffe1f598.css.map",
+    "main.78684a29.js.map": "/adict/static/js/main.78684a29.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce90c899.css",
+    "static/css/main.ffe1f598.css",
     "static/js/main.78684a29.js"
   ]
 }
